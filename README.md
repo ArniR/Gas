@@ -1,2 +1,1 @@
-# gas.github.io
 Gas
